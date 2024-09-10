@@ -11,6 +11,8 @@ hosted on deno deploy.
 
 Follow the below link for instructions on how to setup the above requirements.
 
+[https://docs.deno.com/deploy/manual/](https://docs.deno.com/deploy/manual/)
+
 ## Steps
 
 1. Change the `example.env` file to `.env` and add your own API key and tokens.
